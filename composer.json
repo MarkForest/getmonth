@@ -1,0 +1,20 @@
+{
+    "name": "markforest/library",
+    "description": "Test composer package",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "markforest",
+            "email": "toxerius7@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
