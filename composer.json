@@ -1,5 +1,5 @@
 {
-    "name": "markforest/library",
+    "name": "markforest/getmonth",
     "description": "Test composer package",
     "license": "proprietary",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": ">=7.*"
+        "php": "7.*"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
